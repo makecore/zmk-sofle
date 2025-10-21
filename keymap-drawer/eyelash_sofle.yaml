@@ -63,7 +63,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer2
-  - RIGHT GUI
+  - RGUI
   - $$mdi:backspace-reverse-outline$$
   layer1:
   - {t: '`', s: '~'}
